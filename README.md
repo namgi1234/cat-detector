@@ -4,5 +4,4 @@
 
 #### When a cat and a garbage bag are detected together, an alarm rings to drive the cat away.
 ![jpg_1](./reference/image.png)
-![jpg_1](./reference/result.jpg)
-![jpg_1](./reference/video.gif)
+![jpg_2](./reference/video.gif)
